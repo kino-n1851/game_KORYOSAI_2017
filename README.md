@@ -1,14 +1,15 @@
 # game_KORYOSAI_2017
 2017年に学校祭の専門委員企画で展示を行ったゲームプログラム
-[Test Image 1](image/SS1.png)
+![Test Image 1](image/SS1.png)
 
 3人のグループで方向性を相談し、高専1年次に独学でC, C#プログラミングの学習を進めながら製作したもの。
 実装は主に一人で行った。
 旋回して追尾するミサイルや高速で直線的に突っ込んでくるミサイルを避けながら、アイテムを拾い、
 スコアを集める。ミサイル同士をうまく誘導してぶつけるとアイテムが生成される。
-[Test Image 1](image/SS2.png)
-[Test Image 1](image/SS3.png)
+![Test Image 1](image/SS2.png)
+![Test Image 1](image/SS3.png)
+
 発射すると代わりに誘導対象になってくれ、一時的に誘導ミサイルを無効化するフレアが使用可能。
-[Test Image 1](image/SS4.png)
+![Test Image 1](image/SS4.png)
 弾幕ゲームをイメージし最後にボスを出現させたが、見返すとスコア調整や挙動が非常に拙い。
-[Test Image 1](image/SS5.png)
+![Test Image 1](image/SS5.png)
