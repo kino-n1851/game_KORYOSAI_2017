@@ -5,8 +5,6 @@ using UnityEngine;
 public class player2 : MonoBehaviour {
 
     //PLst 0-> alive 1-> dead 2-> flare
-    //あ、スパゲッティおかわりですか？
-    //どうぞめしあがれ.....
 
     int fI, PLFst = 0;
     float yang = 3.5f;

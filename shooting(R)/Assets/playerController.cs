@@ -6,13 +6,6 @@ public class playerController : MonoBehaviour
 {
 
     //PLst 0-> alive 1-> dead 2-> flare
-    //こちらスパゲッティナポリタン電子風味になります。
-    //どうぞ頑張って解読してください...
-
-    //.....うざい..わりと...。
-    //待って、いやすぎる...吐き気がする...。
-    //ああ....仕様変更なう...
-    //もはや何がどこにあるのかわかってない...
 
     int Destroyflag;
     int fI, PLFst = 0;
@@ -30,9 +23,7 @@ public class playerController : MonoBehaviour
     int Findstart = 0;
     //float pv = 0.05f;
 
-    //static絶対使い方間違えたあああぁぁぁぁ！！
-    //めっちゃうぜぇ...
-    //変えたいけどだるすぎる....
+    //static使い方間違えた予感
     public static int PLst = 0;
     public static float Pspeed = 0.60f;
     public static int plZANKI = 15;
